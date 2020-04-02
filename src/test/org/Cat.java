@@ -1,9 +1,7 @@
 package test.org;
 
-class Cat {
-     int age;
+class Cat extends Animal{
      String nose;
-     String name;
 
      void tellName(){
         String s ="I am "+ name;

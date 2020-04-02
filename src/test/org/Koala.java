@@ -1,8 +1,6 @@
 package test.org;
 
-public class Koala {
-    int age;
-    String name;
+public class Koala extends Animal{
     String size;
     
 }
